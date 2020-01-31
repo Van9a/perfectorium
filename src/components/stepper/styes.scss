@@ -1,0 +1,17 @@
+.main {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.main__content {
+  display: flex;
+  flex-direction: row-reverse;
+  margin-bottom: 30px;
+}
+
+.main__content-container {
+  display: flex;
+  flex-direction: column;
+}
